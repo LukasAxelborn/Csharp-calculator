@@ -1,0 +1,22 @@
+C:\Users\lukas\OneDrive\Universitetet\C# kurs\Labb\labb2 - calculator\bin\Debug\labb2 - calculator.exe.config
+C:\Users\lukas\OneDrive\Universitetet\C# kurs\Labb\labb2 - calculator\bin\Debug\labb2 - calculator.exe
+C:\Users\lukas\OneDrive\Universitetet\C# kurs\Labb\labb2 - calculator\bin\Debug\labb2 - calculator.pdb
+C:\Users\lukas\OneDrive\Universitetet\C# kurs\Labb\labb2 - calculator\obj\Debug\labb2 - calculator.csproj.AssemblyReference.cache
+C:\Users\lukas\OneDrive\Universitetet\C# kurs\Labb\labb2 - calculator\obj\Debug\labb2 - calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\lukas\OneDrive\Universitetet\C# kurs\Labb\labb2 - calculator\obj\Debug\labb2___calculator.Form1.resources
+C:\Users\lukas\OneDrive\Universitetet\C# kurs\Labb\labb2 - calculator\obj\Debug\labb2___calculator.Properties.Resources.resources
+C:\Users\lukas\OneDrive\Universitetet\C# kurs\Labb\labb2 - calculator\obj\Debug\labb2 - calculator.csproj.GenerateResource.cache
+C:\Users\lukas\OneDrive\Universitetet\C# kurs\Labb\labb2 - calculator\obj\Debug\labb2 - calculator.csproj.CoreCompileInputs.cache
+C:\Users\lukas\OneDrive\Universitetet\C# kurs\Labb\labb2 - calculator\obj\Debug\labb2 - calculator.exe
+C:\Users\lukas\OneDrive\Universitetet\C# kurs\Labb\labb2 - calculator\obj\Debug\labb2 - calculator.pdb
+C:\Users\lukas\OneDrive\Universitetet\C# kurs\Labb\labb2 - calculatorv2\labb2 - calculatorv2\bin\Debug\labb2 - calculator.exe.config
+C:\Users\lukas\OneDrive\Universitetet\C# kurs\Labb\labb2 - calculatorv2\labb2 - calculatorv2\bin\Debug\labb2 - calculator.exe
+C:\Users\lukas\OneDrive\Universitetet\C# kurs\Labb\labb2 - calculatorv2\labb2 - calculatorv2\bin\Debug\labb2 - calculator.pdb
+C:\Users\lukas\OneDrive\Universitetet\C# kurs\Labb\labb2 - calculatorv2\labb2 - calculatorv2\obj\Debug\labb2 - calculator.csproj.AssemblyReference.cache
+C:\Users\lukas\OneDrive\Universitetet\C# kurs\Labb\labb2 - calculatorv2\labb2 - calculatorv2\obj\Debug\labb2 - calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\lukas\OneDrive\Universitetet\C# kurs\Labb\labb2 - calculatorv2\labb2 - calculatorv2\obj\Debug\labb2___calculator.Form1.resources
+C:\Users\lukas\OneDrive\Universitetet\C# kurs\Labb\labb2 - calculatorv2\labb2 - calculatorv2\obj\Debug\labb2___calculator.Properties.Resources.resources
+C:\Users\lukas\OneDrive\Universitetet\C# kurs\Labb\labb2 - calculatorv2\labb2 - calculatorv2\obj\Debug\labb2 - calculator.csproj.GenerateResource.cache
+C:\Users\lukas\OneDrive\Universitetet\C# kurs\Labb\labb2 - calculatorv2\labb2 - calculatorv2\obj\Debug\labb2 - calculator.csproj.CoreCompileInputs.cache
+C:\Users\lukas\OneDrive\Universitetet\C# kurs\Labb\labb2 - calculatorv2\labb2 - calculatorv2\obj\Debug\labb2 - calculator.exe
+C:\Users\lukas\OneDrive\Universitetet\C# kurs\Labb\labb2 - calculatorv2\labb2 - calculatorv2\obj\Debug\labb2 - calculator.pdb
